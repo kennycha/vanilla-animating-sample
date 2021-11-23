@@ -3,8 +3,10 @@ const ROOT_URL =
 const FILE_NAME = "DyingToGlb_fqke1a.glb";
 
 const BEGIN_FRAME = 0;
-const END_FRAME = 5;
-const SPEED_RATIO = 2;
+const END_FRAME = 6;
+const SPEED_RATIO = 2.5;
+
+// const ENGINE_OPTIONS = {};
 
 let scene;
 
